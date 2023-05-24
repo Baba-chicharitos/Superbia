@@ -221,7 +221,9 @@ body {
   }
   
   .nav-list {
-      display: inline-block;
+      display: flex;
+      justify-content: center;
+      flex-grow: 1;
   }
   
   nav.scrolled .nav-list {
