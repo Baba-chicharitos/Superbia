@@ -1,3 +1,9 @@
+@media screen and (max-width: 1200px) {
+  p{
+    color: deeppink
+  }
+}
+
 body {
     background-color: black;	
     margin: 0;
@@ -34,7 +40,7 @@ body {
   /* Logo menu */
   .navbar-logo {
     display: flex;
-    align-items: center;
+    align-items: left;
   }
   
   .logo {
@@ -216,7 +222,7 @@ body {
   }
   
   .nav-list {
-      margin-left: 14rem;
+      align-items: center;
       display: inline-block;
   }
   
