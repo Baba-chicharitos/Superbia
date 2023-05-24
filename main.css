@@ -222,7 +222,7 @@ body {
   }
   
   .nav-list {
-      align-items: center;
+      margin-left: 1rem;
       display: inline-block;
   }
   
