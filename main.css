@@ -45,8 +45,7 @@ body {
   
   .logo {
     width: 5rem;
-    height: auto;
-    margin-right: 1rem; /* ajoute un espace entre le logo et le menu */
+    height: auto; /* ajoute un espace entre le logo et le menu */
   }
   
   nav.scrolled .logo {
