@@ -109,8 +109,8 @@ footer li {
   }
   
   nav.scrolled .nav-list {
-      margin-left: 15rem;
-      display: inline-block;
+      display: flex;
+      justify-content:  center;
   }
   
   nav ul {
