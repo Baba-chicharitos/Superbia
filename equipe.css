@@ -638,7 +638,7 @@ footer li {
 .akwel-rectangle {
   position: absolute;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
   background-color: #000;
   border-radius: 0.6rem;
@@ -757,7 +757,7 @@ footer li {
   .ezan-rectangle {
     position: absolute;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
     background-color: #000;
     border-radius: 0.6rem;
@@ -877,7 +877,7 @@ footer li {
   .kyoso-rectangle {
     position: absolute;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
     background-color: #000;
     border-radius: 0.6rem;
