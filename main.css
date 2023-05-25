@@ -227,8 +227,8 @@ body {
   }
   
   nav.scrolled .nav-list {
-      margin-left: 15.6rem;
-      display: inline-block;
+      display: flex;
+      align-items: center;
   }
   
   nav ul {
